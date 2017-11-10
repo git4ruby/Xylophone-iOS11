@@ -1,5 +1,5 @@
 # Xylophone
-Learn to make iOSXylophone Music App 📱 | Project Stub | (Swift 4.0/Xcode 9)
+Learn to make iOS Xylophone Music App 📱 | Project Stub | (Swift 4.0/Xcode 9)
 
 Beginner: Download the starter project files as .zip and extract the files to your desktop.
 
